@@ -1,0 +1,23 @@
+{
+  "name": "wizpay",
+  "version": "1.0.0",
+  "description": "this is a demo of wiz-pay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rishad7/wizpay.git"
+  },
+  "author": "Mohammed Rishad K V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishad7/wizpay/issues"
+  },
+  "homepage": "https://github.com/rishad7/wizpay#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
